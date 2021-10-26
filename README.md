@@ -2,4 +2,4 @@
 
 ### Creando un conflicto en Git
 
-ERRORRRRR
+
